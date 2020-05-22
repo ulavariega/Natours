@@ -1,19 +1,15 @@
 {
   "name": "natours",
   "version": "1.0.0",
-  "description": "",
+  "description": "Landing page for natours",
   "main": "index.js",
   "scripts": {
     "compile:sass": "node-sass sass/main.scss css/style.css -w"
   },
-  "repository": {
-    "type": "git",
-    "url": "no"
-  },
-  "author": "",
+  "author": "Jonas",
   "license": "ISC",
   "devDependencies": {
-    "node-sass": "^4.14.1"
+    "node-sass": "^4.5.3"
   },
   "dependencies": {}
 }
